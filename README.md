@@ -1,0 +1,3 @@
+# SounderDao
+a convenient way to create database,table and edit data,also a way to learn annotation,reflection...
+getting start,please visit <a href="http://blog.csdn.net/u011146263/article/details/54848618">here</a>
